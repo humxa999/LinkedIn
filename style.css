@@ -1,0 +1,97 @@
+.div1 {
+    border: 2px solid ;
+    width: 300px;
+    height: 700px;
+}
+.sign1 {
+    text-align: start;
+    margin-left: 25px;
+}
+.inp{
+    width: 250px;
+    height: 40px;
+}
+.inp::placeholder{
+    padding-left: 10px;
+}
+.stay{
+    margin-left: 15px;
+}
+.Forgot{
+    text-align: start;
+    margin-left: 25px;
+}
+.checkbox{
+    text-align: start;
+    margin-left: 25px;
+}
+.sign-in{
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+    font-size: medium;
+    background-color: rgb(32, 32, 196);
+    color: white;
+}
+.password{
+position: relative;
+}
+.password button{
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    
+}
+.password button:hover{
+    opacity: 50%;
+}
+
+.Google {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+    font-size: medium;
+
+}
+.Apple{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+    font-size: 16px;
+    
+    
+}
+.Google img{
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.Apple img{
+    margin-right: 15px;
+    /* margin-top: 5px; */
+    
+object-fit: contain;
+}
+.login a{
+    text-decoration: none;
+}
+.login a:hover{
+    width: 140px;
+    background-color: blue;
+    height: 140px;
+    opacity: 50%;
+    border-radius: 10px;
+    color: white;
+}
+.footer li{
+    display: inline;
+    margin-left: 10px;
+    color: rgb(121, 121, 121);
+}
+.flogo{
+    color: black !important;
+    font-weight: bold;
+}
